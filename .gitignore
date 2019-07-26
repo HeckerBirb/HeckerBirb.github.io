@@ -1,3 +1,5 @@
+.DS_Store
+*.xcodeproj
 _site
 .sass-cache
 .jekyll-metadata

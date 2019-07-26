@@ -41,6 +41,27 @@ text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 max-width: 42em;
 }
 
+.latest-posts h1 {
+    color: gray;
+}
+
+.blog h1,
+.blog h2,
+.blog h3 {
+    color: rgb(245, 215, 182);
+}
+
+.blog-post h1,
+.blog-post h2,
+.blog-post h3 {
+    padding-top: 2rem;
+    color: rgb(245, 215, 182);
+}
+
+.back-link {
+    color: gray;
+    font-size: 0.9rem;
+}
 
 /*
 * Header
