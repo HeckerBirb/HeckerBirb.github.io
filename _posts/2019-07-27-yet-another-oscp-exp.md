@@ -39,7 +39,7 @@ Eventually I got the first lead and from that point the remaining attack wasn't 
 ### Trust your methodology, but don't follow it blindly
 If you're still with me you have my deepest thanks. To wrap all of this up I hope that I have succeeded at least a little bit in expressing my thoughts about what my methodology and also biggest take-away from the course and exam. It has taken me a while to even be able to put words to what this new-grown "feeling" of mine even is. The feeling of weighing up the different paths with one another and exploring the most likely paths little by little.
 
-Please feel free to reach out to me on Discord at `@Birb#0001` with anything you might want to share. I will happily listen to your thought and feedback or further discuss anything you've read in here today. Once again, thank you for staying with me this far. 
+Please feel free to reach out to me on Discord at `0xbirb` (previously `@Birb#0001`) with anything you might want to share. I will happily listen to your thought and feedback or further discuss anything you've read in here today. Once again, thank you for staying with me this far. 
 
 May the winds guide you.
 
